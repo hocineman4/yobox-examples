@@ -53,6 +53,14 @@ const uuid = pm.collectionVariables.get("hook_uuid");
 pm.sendRequest({ url: `https://api.yobox.dev/webhook/token/${uuid}`, method: "DELETE" });
 ```
 
+## Like this example?
+
+⭐ Star the repository:
+https://github.com/hocineman4/yobox-examples
+
+🌐 More developer tools:
+https://yobox.dev
+
 ## Links
 
 - Tool: [YoBox Webhook Tester](https://yobox.dev/webhook?utm_source=github&utm_medium=example&utm_campaign=yobox_growth)
