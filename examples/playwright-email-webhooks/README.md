@@ -87,6 +87,14 @@ test("stripe webhook + receipt email", async ({ page, inbox, hook }) => {
 });
 ```
 
+## Like this example?
+
+⭐ Star the repository:
+https://github.com/hocineman4/yobox-examples
+
+🌐 More developer tools:
+https://yobox.dev
+
 ## Links
 
 - Tools: [Temp Mail](https://yobox.dev/?utm_source=github&utm_medium=example&utm_campaign=yobox_growth) · [Webhook Tester](https://yobox.dev/webhook?utm_source=github&utm_medium=example&utm_campaign=yobox_growth)
