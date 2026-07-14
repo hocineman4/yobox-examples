@@ -1,5 +1,11 @@
 # YoBox — The Developer Toolbox for Testing, QA & Automation
 
+⭐ If these examples saved you time, please consider starring this repository.
+
+👉 https://github.com/hocineman4/yobox-examples
+
+It helps more developers discover YoBox.
+
 > Disposable email, webhook capture, regex, mock data, secure passwords, Docker recipes, and framework guides for Cypress, Playwright, and Postman — all in one place, all free, no signup.
 
 **Website:** [yobox.dev](https://yobox.dev/?utm_source=github&utm_medium=readme&utm_campaign=yobox_growth)
