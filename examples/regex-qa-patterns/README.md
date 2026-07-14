@@ -40,6 +40,14 @@ Copy the pattern that matches your problem, drop it into your test suite, and va
 /^\d{13,19}$/
 ```
 
+## Like this example?
+
+⭐ Star the repository:
+https://github.com/hocineman4/yobox-examples
+
+🌐 More developer tools:
+https://yobox.dev
+
 ## Links
 
 - Tool: [YoBox Regex Assistant](https://yobox.dev/tools/regex-assistant?utm_source=github&utm_medium=example&utm_campaign=yobox_growth)
