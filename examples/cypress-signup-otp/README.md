@@ -60,6 +60,14 @@ describe("signup magic link", () => {
 });
 ```
 
+## Like this example?
+
+⭐ Star the repository:
+https://github.com/hocineman4/yobox-examples
+
+🌐 More developer tools:
+https://yobox.dev
+
 ## Links
 
 - Tool: [YoBox Temp Mail](https://yobox.dev/?utm_source=github&utm_medium=example&utm_campaign=yobox_growth)
