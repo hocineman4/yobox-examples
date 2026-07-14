@@ -41,6 +41,14 @@ before(() => {
 - Store secrets in Git, even for staging.
 - Use `Math.random()` — it is not cryptographically secure.
 
+## Like this example?
+
+⭐ Star the repository:
+https://github.com/hocineman4/yobox-examples
+
+🌐 More developer tools:
+https://yobox.dev
+
 ## Links
 
 - Tool: [YoBox Password Generator](https://yobox.dev/tools/password-generator?utm_source=github&utm_medium=example&utm_campaign=yobox_growth)
